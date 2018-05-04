@@ -1,0 +1,8 @@
+{
+  "name": "learn-bootstrap-4",
+  "description": "BV",
+  "author": "BV",
+  "devDependencies": {
+    "bootstrap": "^4.0.0"
+  }
+}
